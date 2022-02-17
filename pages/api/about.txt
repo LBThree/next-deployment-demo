@@ -1,0 +1,1 @@
+this api subdirectory within the pages directory handles
